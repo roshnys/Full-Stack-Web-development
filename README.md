@@ -1,1 +1,1 @@
-# Full-Stack-Web-development
+Todo application is developed using HTML5, CSS, Javascript. It allows the user to check out the activities once those are done and add new tasks into the bucket list.
